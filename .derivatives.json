@@ -1,0 +1,1797 @@
+{
+"shots/EP203/s203_18/01_lock.webp": {
+"h": 2220,
+"src": "157750:1785953668",
+"w": 1080
+},
+"shots/EP203/s203_18/02_thread.webp": {
+"h": 2220,
+"src": "58153:1785953670",
+"w": 1080
+},
+"shots/EP203/s203_37/01_compose.webp": {
+"h": 2220,
+"src": "62889:1785953671",
+"w": 1080
+},
+"shots/EP203/s203_37/02_body_typed.webp": {
+"h": 2220,
+"src": "168280:1785953681",
+"w": 1080
+},
+"shots/EP203/s203_37/03_sent.webp": {
+"h": 2220,
+"src": "92511:1785953682",
+"w": 1080
+},
+"shots/EP205/s205_116__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "554921:1785902964",
+"w": 1920
+},
+"shots/EP205/s205_12__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "306044:1785902919",
+"w": 1920
+},
+"shots/EP205/s205_12_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "631825:1785902919",
+"w": 1920
+},
+"shots/EP205/s205_18__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "164073:1785902924",
+"w": 1920
+},
+"shots/EP205/s205_18_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "383173:1785902936",
+"w": 1920
+},
+"shots/EP205/s205_28__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "533147:1785994156",
+"w": 1920
+},
+"shots/EP205/s205_28_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "358185:1785902938",
+"w": 1920
+},
+"shots/EP205/s205_58__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "344725:1785902940",
+"w": 1920
+},
+"shots/EP205/s205_5__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "405239:1785902914",
+"w": 1920
+},
+"shots/EP205/s205_5_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "473886:1785902916",
+"w": 1920
+},
+"shots/EP205/s205_70__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "313639:1785902942",
+"w": 1920
+},
+"shots/EP205/s205_70_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "386590:1785902945",
+"w": 1920
+},
+"shots/EP205/s205_77__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "583577:1786268448",
+"w": 1920
+},
+"shots/EP205/s205_77_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "497529:1785902958",
+"w": 1920
+},
+"shots/EP205/s205_89__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "317092:1785902958",
+"w": 1920
+},
+"shots/EP205/s205_89__desktop/02_viewer_p2.webp": {
+"h": 1080,
+"src": "314315:1785902958",
+"w": 1920
+},
+"shots/EP205/s205_89_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "381239:1785902960",
+"w": 1920
+},
+"shots/EP205/s205_93_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1531388:1785902962",
+"w": 1920
+},
+"shots/EP206/s206_18__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "421387:1785902971",
+"w": 1920
+},
+"shots/EP206/s206_18_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "422398:1785902973",
+"w": 1920
+},
+"shots/EP206/s206_41__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "3787038:1785902973",
+"w": 1920
+},
+"shots/EP206/s206_41_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "377611:1785902975",
+"w": 1920
+},
+"shots/EP206/s206_50__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "387816:1785902977",
+"w": 1920
+},
+"shots/EP206/s206_50_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1564554:1785902979",
+"w": 1920
+},
+"shots/EP206/s206_51_jodi__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "34588:1785902982",
+"w": 1920
+},
+"shots/EP206/s206_54__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "210866:1785902984",
+"w": 1920
+},
+"shots/EP206/s206_54__desktop/02_dbsearch_result.webp": {
+"h": 1080,
+"src": "459879:1785902985",
+"w": 1920
+},
+"shots/EP206/s206_54_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "777475:1785902987",
+"w": 1920
+},
+"shots/EP206/s206_79__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "358265:1785902989",
+"w": 1920
+},
+"shots/EP206/s206_79_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "399122:1785902992",
+"w": 1920
+},
+"shots/EP206/s206_92__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "188143:1785902994",
+"w": 1920
+},
+"shots/EP206/s206_92_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "405174:1785902996",
+"w": 1920
+},
+"shots/EP206/s206_96__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1730304:1785902998",
+"w": 1920
+},
+"shots/EP206/s206_96_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "392676:1785903005",
+"w": 1920
+},
+"shots/EP206/s206_98__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "313602:1785903007",
+"w": 1920
+},
+"shots/EP206/s206_98_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "435337:1785903007",
+"w": 1920
+},
+"shots/EP207/s207_102/01_ringing.webp": {
+"h": 2220,
+"src": "68658:1786148306",
+"w": 1080
+},
+"shots/EP207/s207_102/02_connected.webp": {
+"h": 2220,
+"src": "55419:1786148308",
+"w": 1080
+},
+"shots/EP207/s207_102/03_call_ended.webp": {
+"h": 2220,
+"src": "52296:1786148309",
+"w": 1080
+},
+"shots/EP207/s207_102b/01_calling.webp": {
+"h": 2220,
+"src": "57804:1786148310",
+"w": 1080
+},
+"shots/EP207/s207_102b/02_connected.webp": {
+"h": 2220,
+"src": "56553:1786148312",
+"w": 1080
+},
+"shots/EP207/s207_102b/03_call_ended.webp": {
+"h": 2220,
+"src": "53981:1786148314",
+"w": 1080
+},
+"shots/EP207/s207_103/01_tracker.webp": {
+"h": 2220,
+"src": "2375683:1786148317",
+"w": 1080
+},
+"shots/EP207/s207_105_meeks__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "681712:1785903050",
+"w": 1920
+},
+"shots/EP207/s207_105_nora__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "359990:1785903053",
+"w": 1920
+},
+"shots/EP207/s207_105_nora__desktop/02_browser_p2.webp": {
+"h": 1080,
+"src": "350849:1785903056",
+"w": 1920
+},
+"shots/EP207/s207_11/01_ringing.webp": {
+"h": 2220,
+"src": "971645:1786147937",
+"w": 1080
+},
+"shots/EP207/s207_11/02_connected.webp": {
+"h": 2220,
+"src": "57291:1786147939",
+"w": 1080
+},
+"shots/EP207/s207_11/03_call_ended.webp": {
+"h": 2220,
+"src": "54339:1786147941",
+"w": 1080
+},
+"shots/EP207/s207_110/01_calling.webp": {
+"h": 2220,
+"src": "53444:1786148337",
+"w": 1080
+},
+"shots/EP207/s207_110/02_connected.webp": {
+"h": 2220,
+"src": "54601:1786148339",
+"w": 1080
+},
+"shots/EP207/s207_110/03_call_ended.webp": {
+"h": 2220,
+"src": "50878:1786148340",
+"w": 1080
+},
+"shots/EP207/s207_111__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "353059:1785903058",
+"w": 1920
+},
+"shots/EP207/s207_113/01_thread.webp": {
+"h": 2220,
+"src": "37302:1786148343",
+"w": 1080
+},
+"shots/EP207/s207_113/02_draft_typed.webp": {
+"h": 2220,
+"src": "76079:1786148345",
+"w": 1080
+},
+"shots/EP207/s207_113/03_sent.webp": {
+"h": 2220,
+"src": "86257:1786148348",
+"w": 1080
+},
+"shots/EP207/s207_113__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "358615:1785905364",
+"w": 1920
+},
+"shots/EP207/s207_11_ryan__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "515457:1785903020",
+"w": 1920
+},
+"shots/EP207/s207_12__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2726299:1785903022",
+"w": 1920
+},
+"shots/EP207/s207_12_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1105169:1785903024",
+"w": 1920
+},
+"shots/EP207/s207_14_meeks__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "345288:1785903026",
+"w": 1920
+},
+"shots/EP207/s207_14_nora__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "336242:1785903030",
+"w": 1920
+},
+"shots/EP207/s207_14_txt/01_thread.webp": {
+"h": 2220,
+"src": "66561:1786147945",
+"w": 1080
+},
+"shots/EP207/s207_14_txt/02_draft_typed.webp": {
+"h": 2220,
+"src": "111692:1786147948",
+"w": 1080
+},
+"shots/EP207/s207_14_txt/03_sent.webp": {
+"h": 2220,
+"src": "120784:1786147949",
+"w": 1080
+},
+"shots/EP207/s207_19/01_calling.webp": {
+"h": 2220,
+"src": "58949:1786147950",
+"w": 1080
+},
+"shots/EP207/s207_19/02_connected.webp": {
+"h": 2220,
+"src": "57712:1786147952",
+"w": 1080
+},
+"shots/EP207/s207_19/03_call_ended.webp": {
+"h": 2220,
+"src": "55163:1786147953",
+"w": 1080
+},
+"shots/EP207/s207_21/01_file_list.webp": {
+"h": 2220,
+"src": "83420:1786147955",
+"w": 1080
+},
+"shots/EP207/s207_21/02_doc_trip_reference_sheet_crystal.webp": {
+"h": 2220,
+"src": "343541:1786147957",
+"w": 1080
+},
+"shots/EP207/s207_21/03_doc_party_manifest_9_in_party.webp": {
+"h": 2220,
+"src": "409768:1786147959",
+"w": 1080
+},
+"shots/EP207/s207_21/04_doc_liability_assumption_of_risk.webp": {
+"h": 2220,
+"src": "358038:1786147961",
+"w": 1080
+},
+"shots/EP207/s207_28/01_map.webp": {
+"h": 2220,
+"src": "2833408:1786147964",
+"w": 1080
+},
+"shots/EP207/s207_32/01_calling.webp": {
+"h": 2220,
+"src": "55789:1786147965",
+"w": 1080
+},
+"shots/EP207/s207_32/02_voicemail_recording.webp": {
+"h": 2220,
+"src": "54550:1786147970",
+"w": 1080
+},
+"shots/EP207/s207_32/03_call_ended.webp": {
+"h": 2220,
+"src": "51225:1786147971",
+"w": 1080
+},
+"shots/EP207/s207_34/01_lock.webp": {
+"h": 2220,
+"src": "155669:1786147974",
+"w": 1080
+},
+"shots/EP207/s207_34/02_no_signal.webp": {
+"h": 2220,
+"src": "36326:1786147976",
+"w": 1080
+},
+"shots/EP207/s207_40/01_map.webp": {
+"h": 2220,
+"src": "4284314:1786148058",
+"w": 1080
+},
+"shots/EP207/s207_40__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2418142:1785903033",
+"w": 1920
+},
+"shots/EP207/s207_41_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1532551:1785903035",
+"w": 1920
+},
+"shots/EP207/s207_42_jodi/01_map.webp": {
+"h": 2220,
+"src": "2494687:1786148060",
+"w": 1080
+},
+"shots/EP207/s207_42_jodi/02_tracking_stopped.webp": {
+"h": 2220,
+"src": "2490669:1786148061",
+"w": 1080
+},
+"shots/EP207/s207_42_ryan/01_lock.webp": {
+"h": 2220,
+"src": "155669:1786148064",
+"w": 1080
+},
+"shots/EP207/s207_42_ryan/02_no_signal.webp": {
+"h": 2220,
+"src": "36629:1786148066",
+"w": 1080
+},
+"shots/EP207/s207_43_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1528399:1785903038",
+"w": 1920
+},
+"shots/EP207/s207_45_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1528174:1785903041",
+"w": 1920
+},
+"shots/EP207/s207_45_b__desktop/02_launcher_search.webp": {
+"h": 1080,
+"src": "608773:1785903043",
+"w": 1920
+},
+"shots/EP207/s207_45_b__desktop/03_launcher_opened.webp": {
+"h": 1080,
+"src": "2462632:1785903040",
+"w": 1920
+},
+"shots/EP207/s207_48/01_lock.webp": {
+"h": 2220,
+"src": "176962:1786148069",
+"w": 1080
+},
+"shots/EP207/s207_48/02_thread.webp": {
+"h": 2220,
+"src": "709434:1786148071",
+"w": 1080
+},
+"shots/EP207/s207_48/03_image_viewer.webp": {
+"h": 2220,
+"src": "2244293:1786148073",
+"w": 1080
+},
+"shots/EP207/s207_48/04_thread_after_image.webp": {
+"h": 2220,
+"src": "725030:1786148075",
+"w": 1080
+},
+"shots/EP207/s207_48/05_link_tracker.webp": {
+"h": 2220,
+"src": "2422720:1786148078",
+"w": 1080
+},
+"shots/EP207/s207_49/01_no_signal.webp": {
+"h": 2220,
+"src": "40890:1786148099",
+"w": 1080
+},
+"shots/EP207/s207_4__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "139078:1785903009",
+"w": 1920
+},
+"shots/EP207/s207_4__desktop/02_dbsearch_result.webp": {
+"h": 1080,
+"src": "420160:1785903010",
+"w": 1920
+},
+"shots/EP207/s207_4_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "471525:1785903013",
+"w": 1920
+},
+"shots/EP207/s207_53/01_no_signal.webp": {
+"h": 2220,
+"src": "36586:1786148131",
+"w": 1080
+},
+"shots/EP207/s207_54/01_ringing.webp": {
+"h": 2220,
+"src": "970911:1786148152",
+"w": 1080
+},
+"shots/EP207/s207_54/02_connected.webp": {
+"h": 2220,
+"src": "54916:1786148155",
+"w": 1080
+},
+"shots/EP207/s207_54/03_call_ended.webp": {
+"h": 2220,
+"src": "51225:1786148157",
+"w": 1080
+},
+"shots/EP207/s207_57_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1528899:1785903048",
+"w": 1920
+},
+"shots/EP207/s207_58/01_thread.webp": {
+"h": 2220,
+"src": "49114:1786148189",
+"w": 1080
+},
+"shots/EP207/s207_58/02_draft_typed.webp": {
+"h": 2220,
+"src": "95312:1786148193",
+"w": 1080
+},
+"shots/EP207/s207_64/01_no_signal.webp": {
+"h": 2220,
+"src": "39062:1786148195",
+"w": 1080
+},
+"shots/EP207/s207_66/01_map.webp": {
+"h": 2220,
+"src": "2461795:1786148196",
+"w": 1080
+},
+"shots/EP207/s207_67/01_drone.webp": {
+"h": 2220,
+"src": "83186:1786148200",
+"w": 1080
+},
+"shots/EP207/s207_70/01_drone.webp": {
+"h": 2220,
+"src": "83201:1786148204",
+"w": 1080
+},
+"shots/EP207/s207_87/01_no_signal.webp": {
+"h": 2220,
+"src": "39062:1786148206",
+"w": 1080
+},
+"shots/EP207/s207_96_jodi/01_map.webp": {
+"h": 2220,
+"src": "2529788:1786148556",
+"w": 1080
+},
+"shots/EP207/s207_96_manny/01_calling.webp": {
+"h": 2220,
+"src": "58278:1786148301",
+"w": 1080
+},
+"shots/EP207/s207_96_manny/02_connected.webp": {
+"h": 2220,
+"src": "57022:1786148303",
+"w": 1080
+},
+"shots/EP207/s207_96_manny/03_call_ended.webp": {
+"h": 2220,
+"src": "54472:1786148304",
+"w": 1080
+},
+"shots/EP207/s207_9__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "3174796:1785903015",
+"w": 1920
+},
+"shots/EP207/s207_9_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1323437:1785903017",
+"w": 1920
+},
+"shots/EP208/s208_03_meeks__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "319871:1785903063",
+"w": 1920
+},
+"shots/EP208/s208_03_nora__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "312432:1785903065",
+"w": 1920
+},
+"shots/EP208/s208_05a/01_calling.webp": {
+"h": 2220,
+"src": "57363:1785902566",
+"w": 1080
+},
+"shots/EP208/s208_05a/02_voicemail_recording.webp": {
+"h": 2220,
+"src": "56617:1785902564",
+"w": 1080
+},
+"shots/EP208/s208_05a/03_call_ended.webp": {
+"h": 2220,
+"src": "50981:1785902565",
+"w": 1080
+},
+"shots/EP208/s208_06/01_calling.webp": {
+"h": 2220,
+"src": "56068:1785902574",
+"w": 1080
+},
+"shots/EP208/s208_06/02_voicemail_recording.webp": {
+"h": 2220,
+"src": "55299:1785902577",
+"w": 1080
+},
+"shots/EP208/s208_06/03_call_ended.webp": {
+"h": 2220,
+"src": "49585:1785902579",
+"w": 1080
+},
+"shots/EP208/s208_09/01_calling.webp": {
+"h": 2220,
+"src": "56549:1785902581",
+"w": 1080
+},
+"shots/EP208/s208_09/02_connected.webp": {
+"h": 2220,
+"src": "54997:1785902582",
+"w": 1080
+},
+"shots/EP208/s208_09/03_call_ended.webp": {
+"h": 2220,
+"src": "50202:1785902583",
+"w": 1080
+},
+"shots/EP208/s208_104a_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1525283:1785903107",
+"w": 1920
+},
+"shots/EP208/s208_111__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "356034:1784649676",
+"w": 1920
+},
+"shots/EP208/s208_117/01_ringing.webp": {
+"h": 2220,
+"src": "124163:1785902679",
+"w": 1080
+},
+"shots/EP208/s208_117/02_connected.webp": {
+"h": 2220,
+"src": "58186:1785902679",
+"w": 1080
+},
+"shots/EP208/s208_117/03_call_ended.webp": {
+"h": 2220,
+"src": "52300:1785902679",
+"w": 1080
+},
+"shots/EP208/s208_118/01_calling.webp": {
+"h": 2220,
+"src": "57510:1785902682",
+"w": 1080
+},
+"shots/EP208/s208_118/02_connected.webp": {
+"h": 2220,
+"src": "55978:1785902684",
+"w": 1080
+},
+"shots/EP208/s208_118/03_call_ended.webp": {
+"h": 2220,
+"src": "51255:1785902684",
+"w": 1080
+},
+"shots/EP208/s208_119/01_lock.webp": {
+"h": 2220,
+"src": "161194:1785902686",
+"w": 1080
+},
+"shots/EP208/s208_119/02_thread.webp": {
+"h": 2220,
+"src": "86935:1785902688",
+"w": 1080
+},
+"shots/EP208/s208_12/01_calling.webp": {
+"h": 2220,
+"src": "59525:1785902585",
+"w": 1080
+},
+"shots/EP208/s208_12/02_connected.webp": {
+"h": 2220,
+"src": "57994:1785902587",
+"w": 1080
+},
+"shots/EP208/s208_12/03_call_ended.webp": {
+"h": 2220,
+"src": "53411:1785902588",
+"w": 1080
+},
+"shots/EP208/s208_122/01_calling.webp": {
+"h": 2220,
+"src": "60261:1785902690",
+"w": 1080
+},
+"shots/EP208/s208_122/02_connected.webp": {
+"h": 2220,
+"src": "58650:1785902692",
+"w": 1080
+},
+"shots/EP208/s208_122/03_call_ended.webp": {
+"h": 2220,
+"src": "54131:1785902694",
+"w": 1080
+},
+"shots/EP208/s208_124b/01_calling.webp": {
+"h": 2220,
+"src": "58142:1785902696",
+"w": 1080
+},
+"shots/EP208/s208_124b/02_voicemail_recording.webp": {
+"h": 2220,
+"src": "57488:1785902702",
+"w": 1080
+},
+"shots/EP208/s208_124b/03_call_ended.webp": {
+"h": 2220,
+"src": "51958:1785902694",
+"w": 1080
+},
+"shots/EP208/s208_125__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "447518:1785903110",
+"w": 1920
+},
+"shots/EP208/s208_125__desktop/02_email_popup.webp": {
+"h": 1080,
+"src": "480204:1785903111",
+"w": 1920
+},
+"shots/EP208/s208_13/01_ringing.webp": {
+"h": 2220,
+"src": "967018:1785902590",
+"w": 1080
+},
+"shots/EP208/s208_13/02_connected.webp": {
+"h": 2220,
+"src": "56241:1785902592",
+"w": 1080
+},
+"shots/EP208/s208_13/03_call_ended.webp": {
+"h": 2220,
+"src": "50189:1785902594",
+"w": 1080
+},
+"shots/EP208/s208_13a/01_thread.webp": {
+"h": 2220,
+"src": "51978:1785902596",
+"w": 1080
+},
+"shots/EP208/s208_13a/02_draft_typed.webp": {
+"h": 2220,
+"src": "99511:1785902599",
+"w": 1080
+},
+"shots/EP208/s208_13a/03_sent.webp": {
+"h": 2220,
+"src": "107711:1785902601",
+"w": 1080
+},
+"shots/EP208/s208_17a/01_lock.webp": {
+"h": 2220,
+"src": "130032:1785902603",
+"w": 1080
+},
+"shots/EP208/s208_17a/02_thread.webp": {
+"h": 2220,
+"src": "70086:1785902604",
+"w": 1080
+},
+"shots/EP208/s208_17a/03_draft_typed.webp": {
+"h": 2220,
+"src": "115729:1785902608",
+"w": 1080
+},
+"shots/EP208/s208_19/01_calling.webp": {
+"h": 2220,
+"src": "59892:1785902610",
+"w": 1080
+},
+"shots/EP208/s208_19/02_connected.webp": {
+"h": 2220,
+"src": "58264:1785902612",
+"w": 1080
+},
+"shots/EP208/s208_19/03_call_ended.webp": {
+"h": 2220,
+"src": "53699:1785902614",
+"w": 1080
+},
+"shots/EP208/s208_23__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2405024:1785903070",
+"w": 1920
+},
+"shots/EP208/s208_23_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "408727:1785903083",
+"w": 1920
+},
+"shots/EP208/s208_24/01_calling.webp": {
+"h": 2220,
+"src": "62588:1785902616",
+"w": 1080
+},
+"shots/EP208/s208_24/02_connected.webp": {
+"h": 2220,
+"src": "60929:1785902617",
+"w": 1080
+},
+"shots/EP208/s208_24/03_call_ended.webp": {
+"h": 2220,
+"src": "54004:1785902618",
+"w": 1080
+},
+"shots/EP208/s208_28/01_thread.webp": {
+"h": 2220,
+"src": "54290:1785902620",
+"w": 1080
+},
+"shots/EP208/s208_28/02_draft_typed.webp": {
+"h": 2220,
+"src": "110157:1785902625",
+"w": 1080
+},
+"shots/EP208/s208_28/03_sent.webp": {
+"h": 2220,
+"src": "117245:1785902627",
+"w": 1080
+},
+"shots/EP208/s208_33a/01_thread.webp": {
+"h": 2220,
+"src": "48858:1785902629",
+"w": 1080
+},
+"shots/EP208/s208_33a/02_draft_typed.webp": {
+"h": 2220,
+"src": "88263:1785902631",
+"w": 1080
+},
+"shots/EP208/s208_33a/03_sent.webp": {
+"h": 2220,
+"src": "95402:1785902632",
+"w": 1080
+},
+"shots/EP208/s208_37/01_contacts.webp": {
+"h": 2220,
+"src": "428935:1785902634",
+"w": 1080
+},
+"shots/EP208/s208_38/01_ringing.webp": {
+"h": 2220,
+"src": "120547:1785902637",
+"w": 1080
+},
+"shots/EP208/s208_38/02_connected.webp": {
+"h": 2220,
+"src": "54734:1785902639",
+"w": 1080
+},
+"shots/EP208/s208_38/03_call_ended.webp": {
+"h": 2220,
+"src": "48524:1785902634",
+"w": 1080
+},
+"shots/EP208/s208_39/01_ringing.webp": {
+"h": 2220,
+"src": "386931:1785902642",
+"w": 1080
+},
+"shots/EP208/s208_39/02_connected.webp": {
+"h": 2220,
+"src": "58956:1785902644",
+"w": 1080
+},
+"shots/EP208/s208_39/03_call_ended.webp": {
+"h": 2220,
+"src": "53137:1785902646",
+"w": 1080
+},
+"shots/EP208/s208_39__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "518461:1786268462",
+"w": 1920
+},
+"shots/EP208/s208_39__desktop/02_map_search.webp": {
+"h": 1080,
+"src": "518779:1786268462",
+"w": 1920
+},
+"shots/EP208/s208_39__desktop/03_map_result.webp": {
+"h": 1080,
+"src": "560331:1786268460",
+"w": 1920
+},
+"shots/EP208/s208_39_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "360537:1785903089",
+"w": 1920
+},
+"shots/EP208/s208_42__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2363331:1785903091",
+"w": 1920
+},
+"shots/EP208/s208_42_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "405661:1785903093",
+"w": 1920
+},
+"shots/EP208/s208_43/01_calling.webp": {
+"h": 2220,
+"src": "60099:1786041608",
+"w": 1080
+},
+"shots/EP208/s208_43/02_connected.webp": {
+"h": 2220,
+"src": "60615:1786041610",
+"w": 1080
+},
+"shots/EP208/s208_43/03_call_ended.webp": {
+"h": 2220,
+"src": "54859:1786041612",
+"w": 1080
+},
+"shots/EP208/s208_45/01_calling.webp": {
+"h": 2220,
+"src": "56067:1785902653",
+"w": 1080
+},
+"shots/EP208/s208_45/02_connected.webp": {
+"h": 2220,
+"src": "54470:1785902654",
+"w": 1080
+},
+"shots/EP208/s208_45/03_call_ended.webp": {
+"h": 2220,
+"src": "49572:1785902655",
+"w": 1080
+},
+"shots/EP208/s208_48_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1531870:1785903096",
+"w": 1920
+},
+"shots/EP208/s208_66_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1531593:1785903101",
+"w": 1920
+},
+"shots/EP208/s208_68_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1529156:1785903103",
+"w": 1920
+},
+"shots/EP208/s208_72_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "1529453:1785903105",
+"w": 1920
+},
+"shots/EP208/s208_74a/01_calling.webp": {
+"h": 2220,
+"src": "69715:1785902657",
+"w": 1080
+},
+"shots/EP208/s208_74a/02_connected.webp": {
+"h": 2220,
+"src": "68039:1785902658",
+"w": 1080
+},
+"shots/EP208/s208_74a/03_call_ended.webp": {
+"h": 2220,
+"src": "63203:1785902660",
+"w": 1080
+},
+"shots/EP208/s208_81/01_tracker.webp": {
+"h": 2220,
+"src": "2164940:1785902662",
+"w": 1080
+},
+"shots/EP208/s208_99_ernie/01_tracker.webp": {
+"h": 2220,
+"src": "2163960:1785902665",
+"w": 1080
+},
+"shots/EP208/s208_99_manny/01_wallet.webp": {
+"h": 2220,
+"src": "164411:1785902667",
+"w": 1080
+},
+"shots/EP208/s208_99_manny/02_confirm_transfer.webp": {
+"h": 2220,
+"src": "170726:1785902667",
+"w": 1080
+},
+"shots/EP208/s208_99_manny/03_transferring.webp": {
+"h": 2220,
+"src": "163374:1785902669",
+"w": 1080
+},
+"shots/EP208/s208_99_manny/04_transfer_complete.webp": {
+"h": 2220,
+"src": "154312:1785902668",
+"w": 1080
+},
+"shots/EP209/s209_13__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "448819:1786571699",
+"w": 1920
+},
+"shots/EP209/s209_19/01_image.webp": {
+"h": 2220,
+"src": "157708:1786571605",
+"w": 1080
+},
+"shots/EP209/s209_26__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "395229:1786571700",
+"w": 1920
+},
+"shots/EP209/s209_27/01_image.webp": {
+"h": 2220,
+"src": "146833:1786571607",
+"w": 1080
+},
+"shots/EP209/s209_29__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "287243:1786571703",
+"w": 1920
+},
+"shots/EP209/s209_31__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "407220:1786571704",
+"w": 1920
+},
+"shots/EP209/s209_33/01_calling.webp": {
+"h": 2220,
+"src": "61519:1786571608",
+"w": 1080
+},
+"shots/EP209/s209_33/02_connected.webp": {
+"h": 2220,
+"src": "60390:1786571610",
+"w": 1080
+},
+"shots/EP209/s209_33/03_call_ended.webp": {
+"h": 2220,
+"src": "53107:1786571611",
+"w": 1080
+},
+"shots/EP209/s209_34/01_ringing.webp": {
+"h": 2220,
+"src": "970245:1786571612",
+"w": 1080
+},
+"shots/EP209/s209_34/02_connected.webp": {
+"h": 2220,
+"src": "59013:1786571615",
+"w": 1080
+},
+"shots/EP209/s209_34/03_call_ended.webp": {
+"h": 2220,
+"src": "51293:1786571616",
+"w": 1080
+},
+"shots/EP209/s209_35__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "421598:1786571725",
+"w": 1920
+},
+"shots/EP209/s209_4/01_calling.webp": {
+"h": 2220,
+"src": "62280:1786571576",
+"w": 1080
+},
+"shots/EP209/s209_4/02_connected.webp": {
+"h": 2220,
+"src": "61404:1786571578",
+"w": 1080
+},
+"shots/EP209/s209_4/03_call_ended.webp": {
+"h": 2220,
+"src": "57693:1786571579",
+"w": 1080
+},
+"shots/EP209/s209_47/01_camera.webp": {
+"h": 2220,
+"src": "311109:1786571648",
+"w": 1080
+},
+"shots/EP209/s209_48__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "335685:1786571728",
+"w": 1920
+},
+"shots/EP209/s209_50__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "471860:1786571749",
+"w": 1920
+},
+"shots/EP209/s209_51/01_image.webp": {
+"h": 2220,
+"src": "134856:1786571650",
+"w": 1080
+},
+"shots/EP209/s209_52__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "484622:1786571751",
+"w": 1920
+},
+"shots/EP209/s209_54__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "257080:1786571752",
+"w": 1920
+},
+"shots/EP209/s209_58/01_ringing.webp": {
+"h": 2220,
+"src": "3826992:1786571651",
+"w": 1080
+},
+"shots/EP209/s209_58/02_connected.webp": {
+"h": 2220,
+"src": "63137:1786571654",
+"w": 1080
+},
+"shots/EP209/s209_58/03_call_ended.webp": {
+"h": 2220,
+"src": "58730:1786571654",
+"w": 1080
+},
+"shots/EP209/s209_6/01_ringing.webp": {
+"h": 2220,
+"src": "973673:1786571600",
+"w": 1080
+},
+"shots/EP209/s209_6/02_connected.webp": {
+"h": 2220,
+"src": "64265:1786571602",
+"w": 1080
+},
+"shots/EP209/s209_6/03_call_ended.webp": {
+"h": 2220,
+"src": "58146:1786571603",
+"w": 1080
+},
+"shots/EP209/s209_61__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "336871:1786571754",
+"w": 1920
+},
+"shots/EP209/s209_62/01_tracker.webp": {
+"h": 2220,
+"src": "4436753:1786571656",
+"w": 1080
+},
+"shots/EP209/s209_63__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "387930:1786571757",
+"w": 1920
+},
+"shots/EP209/s209_63_jodi/01_thread.webp": {
+"h": 2220,
+"src": "124195:1786571657",
+"w": 1080
+},
+"shots/EP209/s209_63_jodi/02_image_viewer.webp": {
+"h": 2220,
+"src": "163235:1786571658",
+"w": 1080
+},
+"shots/EP209/s209_63_jodi/03_thread_returned.webp": {
+"h": 2220,
+"src": "124195:1786571659",
+"w": 1080
+},
+"shots/EP209/s209_65/01_lock.webp": {
+"h": 2220,
+"src": "245935:1786571661",
+"w": 1080
+},
+"shots/EP209/s209_65/02_thread.webp": {
+"h": 2220,
+"src": "139315:1786571663",
+"w": 1080
+},
+"shots/EP209/s209_65/03_image_viewer.webp": {
+"h": 2220,
+"src": "163578:1786571664",
+"w": 1080
+},
+"shots/EP209/s209_65/04_thread_returned.webp": {
+"h": 2220,
+"src": "139315:1786571665",
+"w": 1080
+},
+"shots/EP209/s209_67__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2500744:1786571768",
+"w": 1920
+},
+"shots/EP209/s209_70__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2436968:1786571770",
+"w": 1920
+},
+"shots/EP209/s209_71/01_image.webp": {
+"h": 2220,
+"src": "163419:1786571666",
+"w": 1080
+},
+"shots/EP209/s209_76/01_map.webp": {
+"h": 2220,
+"src": "584761:1786571686",
+"w": 1080
+},
+"shots/EP209/s209_77/01_map.webp": {
+"h": 2220,
+"src": "466665:1786571687",
+"w": 1080
+},
+"shots/EP209/s209_79/01_map.webp": {
+"h": 2220,
+"src": "380597:1786571688",
+"w": 1080
+},
+"shots/EP209/s209_81/01_map.webp": {
+"h": 2220,
+"src": "274379:1786571689",
+"w": 1080
+},
+"shots/EP209/s209_83/01_map.webp": {
+"h": 2220,
+"src": "234768:1786571690",
+"w": 1080
+},
+"shots/EP209/s209_98/01_contacts.webp": {
+"h": 2220,
+"src": "72100:1786571692",
+"w": 1080
+},
+"shots/EP210/s210_10/01_ringing.webp": {
+"h": 2220,
+"src": "688834:1786571723",
+"w": 1080
+},
+"shots/EP210/s210_10/02_connected.webp": {
+"h": 2220,
+"src": "60345:1786571726",
+"w": 1080
+},
+"shots/EP210/s210_10/03_call_ended.webp": {
+"h": 2220,
+"src": "55579:1786571728",
+"w": 1080
+},
+"shots/EP210/s210_10__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "306763:1786571772",
+"w": 1920
+},
+"shots/EP210/s210_11/01_ringing.webp": {
+"h": 2220,
+"src": "150789:1786571747",
+"w": 1080
+},
+"shots/EP210/s210_11/02_connected.webp": {
+"h": 2220,
+"src": "87156:1786571749",
+"w": 1080
+},
+"shots/EP210/s210_11/03_call_ended.webp": {
+"h": 2220,
+"src": "77991:1786571751",
+"w": 1080
+},
+"shots/EP210/s210_11_pin/01_thread.webp": {
+"h": 2220,
+"src": "427997:1786572317",
+"w": 1080
+},
+"shots/EP210/s210_11_pin/02_link_map.webp": {
+"h": 2220,
+"src": "1080605:1786572319",
+"w": 1080
+},
+"shots/EP210/s210_11_pin_map/01_map.webp": {
+"h": 2220,
+"src": "1115678:1786571798",
+"w": 1080
+},
+"shots/EP210/s210_12/01_calling.webp": {
+"h": 2220,
+"src": "59613:1786571799",
+"w": 1080
+},
+"shots/EP210/s210_12/02_connected.webp": {
+"h": 2220,
+"src": "58614:1786571801",
+"w": 1080
+},
+"shots/EP210/s210_12/03_call_ended.webp": {
+"h": 2220,
+"src": "51286:1786571802",
+"w": 1080
+},
+"shots/EP210/s210_122/01_lock.webp": {
+"h": 2220,
+"src": "158153:1786572102",
+"w": 1080
+},
+"shots/EP210/s210_122/02_calling.webp": {
+"h": 2220,
+"src": "63705:1786572103",
+"w": 1080
+},
+"shots/EP210/s210_122/03_connected.webp": {
+"h": 2220,
+"src": "63940:1786572105",
+"w": 1080
+},
+"shots/EP210/s210_122/04_call_ended.webp": {
+"h": 2220,
+"src": "60171:1786572106",
+"w": 1080
+},
+"shots/EP210/s210_14/01_calling.webp": {
+"h": 2220,
+"src": "59732:1786571803",
+"w": 1080
+},
+"shots/EP210/s210_14/02_connected.webp": {
+"h": 2220,
+"src": "58680:1786571805",
+"w": 1080
+},
+"shots/EP210/s210_14/03_call_ended.webp": {
+"h": 2220,
+"src": "54822:1786571806",
+"w": 1080
+},
+"shots/EP210/s210_19/01_ringing.webp": {
+"h": 2220,
+"src": "971718:1786571826",
+"w": 1080
+},
+"shots/EP210/s210_19/02_connected.webp": {
+"h": 2220,
+"src": "58611:1786571828",
+"w": 1080
+},
+"shots/EP210/s210_19/03_call_ended.webp": {
+"h": 2220,
+"src": "54343:1786571829",
+"w": 1080
+},
+"shots/EP210/s210_20__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "532237:1786571783",
+"w": 1920
+},
+"shots/EP210/s210_21/01_ringing.webp": {
+"h": 2220,
+"src": "126175:1786571849",
+"w": 1080
+},
+"shots/EP210/s210_21/02_connected.webp": {
+"h": 2220,
+"src": "57680:1786571851",
+"w": 1080
+},
+"shots/EP210/s210_21/03_call_ended.webp": {
+"h": 2220,
+"src": "52800:1786571852",
+"w": 1080
+},
+"shots/EP210/s210_22/01_calling.webp": {
+"h": 2220,
+"src": "54794:1786571871",
+"w": 1080
+},
+"shots/EP210/s210_22/02_connected.webp": {
+"h": 2220,
+"src": "55741:1786571873",
+"w": 1080
+},
+"shots/EP210/s210_22/03_call_ended.webp": {
+"h": 2220,
+"src": "50884:1786571874",
+"w": 1080
+},
+"shots/EP210/s210_26/01_calling.webp": {
+"h": 2220,
+"src": "58381:1786571894",
+"w": 1080
+},
+"shots/EP210/s210_26/02_connected.webp": {
+"h": 2220,
+"src": "59317:1786571896",
+"w": 1080
+},
+"shots/EP210/s210_26/03_call_ended.webp": {
+"h": 2220,
+"src": "55263:1786571897",
+"w": 1080
+},
+"shots/EP210/s210_27/01_ringing.webp": {
+"h": 2220,
+"src": "1726277:1786571917",
+"w": 1080
+},
+"shots/EP210/s210_27/02_connected.webp": {
+"h": 2220,
+"src": "53893:1786571920",
+"w": 1080
+},
+"shots/EP210/s210_27/03_call_ended.webp": {
+"h": 2220,
+"src": "47611:1786571920",
+"w": 1080
+},
+"shots/EP210/s210_28_nancy/01_ringing.webp": {
+"h": 2220,
+"src": "120552:1786571952",
+"w": 1080
+},
+"shots/EP210/s210_28_nancy/02_connected.webp": {
+"h": 2220,
+"src": "59587:1786571955",
+"w": 1080
+},
+"shots/EP210/s210_28_nancy/03_call_ended.webp": {
+"h": 2220,
+"src": "54716:1786571955",
+"w": 1080
+},
+"shots/EP210/s210_28_ryan/01_calling.webp": {
+"h": 2220,
+"src": "60106:1786571956",
+"w": 1080
+},
+"shots/EP210/s210_28_ryan/02_no_answer.webp": {
+"h": 2220,
+"src": "61751:1786571962",
+"w": 1080
+},
+"shots/EP210/s210_28_ryan/03_call_ended.webp": {
+"h": 2220,
+"src": "55221:1786571963",
+"w": 1080
+},
+"shots/EP210/s210_29__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2394123:1786571794",
+"w": 1920
+},
+"shots/EP210/s210_33__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "321727:1786571796",
+"w": 1920
+},
+"shots/EP210/s210_35_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "591369:1786571818",
+"w": 1920
+},
+"shots/EP210/s210_35_clive/01_lock.webp": {
+"h": 2220,
+"src": "208028:1786572556",
+"w": 1080
+},
+"shots/EP210/s210_35_clive/02_idle.webp": {
+"h": 2220,
+"src": "208028:1786572559",
+"w": 1080
+},
+"shots/EP210/s210_35_nancy/01_lock.webp": {
+"h": 2220,
+"src": "84593:1786572560",
+"w": 1080
+},
+"shots/EP210/s210_35_nancy/02_idle.webp": {
+"h": 2220,
+"src": "105492:1786572562",
+"w": 1080
+},
+"shots/EP210/s210_40__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "337960:1786571820",
+"w": 1920
+},
+"shots/EP210/s210_44/01_thread.webp": {
+"h": 2220,
+"src": "40157:1786572022",
+"w": 1080
+},
+"shots/EP210/s210_44/02_draft_typed.webp": {
+"h": 2220,
+"src": "91106:1786572026",
+"w": 1080
+},
+"shots/EP210/s210_44/03_sent.webp": {
+"h": 2220,
+"src": "105741:1786572027",
+"w": 1080
+},
+"shots/EP210/s210_44/04_reply.webp": {
+"h": 2220,
+"src": "109226:1786572031",
+"w": 1080
+},
+"shots/EP210/s210_45__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "2148586:1786571822",
+"w": 1920
+},
+"shots/EP210/s210_54a__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "377257:1786571825",
+"w": 1920
+},
+"shots/EP210/s210_54a__desktop/02_browser_p2.webp": {
+"h": 1080,
+"src": "453169:1786571827",
+"w": 1920
+},
+"shots/EP210/s210_59__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "347683:1786571829",
+"w": 1920
+},
+"shots/EP210/s210_65/01_calling.webp": {
+"h": 2220,
+"src": "58678:1786572032",
+"w": 1080
+},
+"shots/EP210/s210_65/02_connected.webp": {
+"h": 2220,
+"src": "57620:1786572034",
+"w": 1080
+},
+"shots/EP210/s210_65/03_call_ended.webp": {
+"h": 2220,
+"src": "53067:1786572035",
+"w": 1080
+},
+"shots/EP210/s210_66a/01_ringing.webp": {
+"h": 2220,
+"src": "76037:1786572036",
+"w": 1080
+},
+"shots/EP210/s210_66a/02_connected.webp": {
+"h": 2220,
+"src": "58215:1786572038",
+"w": 1080
+},
+"shots/EP210/s210_66a/03_call_ended.webp": {
+"h": 2220,
+"src": "53858:1786572039",
+"w": 1080
+},
+"shots/EP210/s210_68a__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "372484:1786571850",
+"w": 1920
+},
+"shots/EP210/s210_68a__desktop/02_browser_p1.webp": {
+"h": 1080,
+"src": "300114:1786571852",
+"w": 1920
+},
+"shots/EP210/s210_68a_meeks/01_search_home.webp": {
+"h": 2220,
+"src": "52098:1786572564",
+"w": 1080
+},
+"shots/EP210/s210_68a_meeks/02_query_typed.webp": {
+"h": 2220,
+"src": "97726:1786572567",
+"w": 1080
+},
+"shots/EP210/s210_68a_meeks/03_search_results.webp": {
+"h": 2220,
+"src": "1186466:1786572568",
+"w": 1080
+},
+"shots/EP210/s210_69__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "390546:1786571854",
+"w": 1920
+},
+"shots/EP210/s210_71__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "676492:1786571856",
+"w": 1920
+},
+"shots/EP210/s210_78/01_calling.webp": {
+"h": 2220,
+"src": "58669:1786572042",
+"w": 1080
+},
+"shots/EP210/s210_78/02_connected.webp": {
+"h": 2220,
+"src": "57607:1786572044",
+"w": 1080
+},
+"shots/EP210/s210_78/03_call_ended.webp": {
+"h": 2220,
+"src": "53159:1786572045",
+"w": 1080
+},
+"shots/EP210/s210_79/01_ringing.webp": {
+"h": 2220,
+"src": "970596:1786572047",
+"w": 1080
+},
+"shots/EP210/s210_79/02_connected.webp": {
+"h": 2220,
+"src": "56995:1786572049",
+"w": 1080
+},
+"shots/EP210/s210_79/03_call_ended.webp": {
+"h": 2220,
+"src": "52675:1786572050",
+"w": 1080
+},
+"shots/EP210/s210_80__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "334094:1786571858",
+"w": 1920
+},
+"shots/EP210/s210_85__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "426833:1786571860",
+"w": 1920
+},
+"shots/EP210/s210_87/01_lock.webp": {
+"h": 2220,
+"src": "96973:1786572052",
+"w": 1080
+},
+"shots/EP210/s210_87/02_thread.webp": {
+"h": 2220,
+"src": "46584:1786572055",
+"w": 1080
+},
+"shots/EP210/s210_87_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "421013:1786571862",
+"w": 1920
+},
+"shots/EP210/s210_90/01_thread.webp": {
+"h": 2220,
+"src": "46442:1786572056",
+"w": 1080
+},
+"shots/EP210/s210_91/01_calling.webp": {
+"h": 2220,
+"src": "62515:1786572057",
+"w": 1080
+},
+"shots/EP210/s210_91/02_connected.webp": {
+"h": 2220,
+"src": "61427:1786572059",
+"w": 1080
+},
+"shots/EP210/s210_91/03_call_ended.webp": {
+"h": 2220,
+"src": "54588:1786572060",
+"w": 1080
+},
+"shots/EP210/s210_92a/01_ringing.webp": {
+"h": 2220,
+"src": "76756:1786572061",
+"w": 1080
+},
+"shots/EP210/s210_92a/02_connected.webp": {
+"h": 2220,
+"src": "63055:1786572064",
+"w": 1080
+},
+"shots/EP210/s210_92a/03_call_ended.webp": {
+"h": 2220,
+"src": "55274:1786572065",
+"w": 1080
+},
+"shots/EP210/s210_93/01_lock.webp": {
+"h": 2220,
+"src": "98197:1786572321",
+"w": 1080
+},
+"shots/EP210/s210_93/02_thread.webp": {
+"h": 2220,
+"src": "482749:1786572323",
+"w": 1080
+},
+"shots/EP210/s210_93/03_link_map.webp": {
+"h": 2220,
+"src": "1280637:1786572325",
+"w": 1080
+},
+"shots/EP210/s210_93_map/01_map.webp": {
+"h": 2220,
+"src": "1280923:1786572100",
+"w": 1080
+},
+"shots/EP_misc/s_dialer_test/01_dialer.webp": {
+"h": 2220,
+"src": "63414:1785902704",
+"w": 1080
+},
+"shots/EP_misc/svfx_first_choice/01_vfx_tracker.webp": {
+"h": 2220,
+"src": "15807:1785902704",
+"w": 1080
+},
+"shots/EP_misc/svfx_first_choice__desktop/01_vfx_plate.webp": {
+"h": 1080,
+"src": "18380:1785903113",
+"w": 1920
+},
+"shots/EP_misc/svfx_high_contrast/01_vfx_tracker.webp": {
+"h": 2220,
+"src": "13722:1785902706",
+"w": 1080
+},
+"shots/EP_misc/svfx_high_contrast__desktop/01_vfx_plate.webp": {
+"h": 1080,
+"src": "18762:1785903115",
+"w": 1920
+},
+"shots/EP_misc/svfx_intense_green/01_vfx_tracker.webp": {
+"h": 2220,
+"src": "13717:1785902708",
+"w": 1080
+},
+"shots/EP_misc/svfx_intense_green__desktop/01_vfx_plate.webp": {
+"h": 1080,
+"src": "18086:1785903117",
+"w": 1920
+},
+"shots/EP_misc/svfx_intense_grey/01_vfx_tracker.webp": {
+"h": 2220,
+"src": "13849:1785902710",
+"w": 1080
+},
+"shots/EP_misc/svfx_intense_grey__desktop/01_vfx_plate.webp": {
+"h": 1080,
+"src": "18725:1785903119",
+"w": 1920
+},
+"shots/EP_misc/svfx_no_reflection/01_vfx_tracker.webp": {
+"h": 2220,
+"src": "13644:1785902712",
+"w": 1080
+},
+"shots/EP_misc/svfx_no_reflection__desktop/01_vfx_plate.webp": {
+"h": 1080,
+"src": "17301:1785903121",
+"w": 1920
+}
+}
