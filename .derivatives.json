@@ -1369,6 +1369,11 @@
 "src": "301023:1786804248",
 "w": 1920
 },
+"shots/EP210/s210_10_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "474543:1786821194",
+"w": 1920
+},
 "shots/EP210/s210_10_meeks__desktop/01_lock.webp": {
 "h": 1080,
 "src": "538623:1786807744",
@@ -1487,6 +1492,11 @@
 "shots/EP210/s210_20__desktop/01_desktop.webp": {
 "h": 1080,
 "src": "542256:1786807760",
+"w": 1920
+},
+"shots/EP210/s210_20_b__desktop/01_desktop.webp": {
+"h": 1080,
+"src": "817024:1786821196",
 "w": 1920
 },
 "shots/EP210/s210_21/01_ringing.webp": {
